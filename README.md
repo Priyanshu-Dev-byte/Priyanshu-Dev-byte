@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Full Stack Developer
+I am IOS App Developer and Full Stack Developer.
 
 
 ## 🌐 Socials:
