@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am IOS App Developer and Full Stack Developer.
+Learning iOS App Development | Video Editor (Learning Adobe Premiere Pro & After Effects)
 
 
 ## 🌐 Socials:
