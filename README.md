@@ -4,10 +4,15 @@ By day (well, part-time), I'm a Video Editor at HackWithIndia 🎬, crafting eve
 What I work with:
 
 🍎 Swift / Xcode — currently building iOS apps
+
 🐍 Python & Flask — backend scripting and web apps
+
 ☕ Java — DSA and problem solving
+
 🌐 HTML, CSS — frontend basics
+
 🗄️ MySQL — database management
+
 🎥 Premiere Pro, After Effects, DaVinci Resolve — video production
 
 What drives me:
