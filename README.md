@@ -1,5 +1,7 @@
 # 💫 About Me:
-Learning iOS App Development | Video Editor (Learning Adobe Premiere Pro & After Effects)
+Tech enthusiast currently learning iOS app development and strengthening DSA fundamentals, while working
+part-time as a Video Editor at HackWithIndia tech community. Seeking opportunities to contribute technical and
+creative skills through hackathons, collaborative projects, and innovative software development roles.
 
 
 ## 🌐 Socials:
