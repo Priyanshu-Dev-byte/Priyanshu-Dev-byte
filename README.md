@@ -1,8 +1,25 @@
 # 💫 About Me:
-Tech enthusiast currently learning iOS app development and strengthening DSA fundamentals, while working
-part-time as a Video Editor at HackWithIndia tech community. Seeking opportunities to contribute technical and
-creative skills through hackathons, collaborative projects, and innovative software development roles.
+Hey there! 👋 I'm a tech enthusiast and creative mind passionate about building software and telling stories through video. I'm currently diving deep into iOS app development with Swift and sharpening my DSA fundamentals — because good code starts with good thinking.
+By day (well, part-time), I'm a Video Editor at HackWithIndia 🎬, crafting event highlights and promotional content that people actually watch — one of my reels hit 30K views on Instagram. By night, I'm grinding LeetCode (130+ problems solved) and dreaming up my next hackathon project.
+What I work with:
 
+🍎 Swift / Xcode — currently building iOS apps
+🐍 Python & Flask — backend scripting and web apps
+☕ Java — DSA and problem solving
+🌐 HTML, CSS — frontend basics
+🗄️ MySQL — database management
+🎥 Premiere Pro, After Effects, DaVinci Resolve — video production
+
+What drives me:
+I love the intersection of technology and creativity — whether that's shipping a clean app, optimizing an algorithm, or editing a video that connects with an audience. Hackathons are my playground, and open-source collaboration is where I want to grow.
+Currently:
+
+📱 Building an iOS app
+📊 Strengthening DSA foundations
+🎯 Looking for hackathons, collabs, and opportunities to make cool things
+
+
+"Code it. Create it. Ship it."
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-rathour-6621892a3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2003priyanshurathour@gmail.com) 
