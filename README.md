@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey there! 👋 I'm a tech enthusiast and creative mind passionate about building software and telling stories through video. I'm currently diving deep into iOS app development with Swift and sharpening my DSA fundamentals — because good code starts with good thinking.
-By day (well, part-time), I'm a Video Editor at HackWithIndia 🎬, crafting event highlights and promotional content that people actually watch — one of my reels hit 30K views on Instagram. By night, I'm grinding LeetCode (130+ problems solved) and dreaming up my next hackathon project.
+By day (well, part-time), I'm a Video Editor at HackWithIndia 🎬, crafting event highlights and promotional content that people actually watch — one of my reels hit 30K views on Instagram. By night, I'm grinding LeetCode  and dreaming up my next hackathon project.
 What I work with:
 
 🍎 Swift / Xcode — currently building iOS apps
