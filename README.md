@@ -34,15 +34,16 @@ Currently:
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Dev-byte\&show_icons=true\&theme=github_dark\&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Priyanshu-Dev-byte\&show_icons=true\&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Dev-byte\&layout=compact\&theme=github_dark\&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Priyanshu-Dev-byte\&layout=compact\&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshu-Dev-byte\&theme=github-dark)
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Priyanshu-Dev-byte\&label=Profile%20Views\&color=0e75b6\&style=flat)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
