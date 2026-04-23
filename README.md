@@ -8,7 +8,7 @@ iOS developer and video editor, currently in my 3rd year of B.Tech CSE at Galgot
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Priyanshu-Dev-byte\&show_icons=true\&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Priyanshu-Dev-byte&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Priyanshu-Dev-byte\&layout=compact\&theme=github_dark)
 
@@ -16,7 +16,7 @@ iOS developer and video editor, currently in my 3rd year of B.Tech CSE at Galgot
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Priyanshu-Dev-byte\&label=Profile%20Views\&color=0e75b6\&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=Priyanshu-Dev-byte&label=Visitor%20Count&color=0e75b6&style=flat)
 
 
 
