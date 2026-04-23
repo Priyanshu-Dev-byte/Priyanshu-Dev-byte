@@ -1,30 +1,4 @@
-# 💫 About Me:
-Hey there! 👋 I'm a tech enthusiast and creative mind passionate about building software and telling stories through video. I'm currently diving deep into iOS app development with Swift and sharpening my DSA fundamentals — because good code starts with good thinking.
-By day (well, part-time), I'm a Video Editor at HackWithIndia 🎬, crafting event highlights and promotional content that people actually watch — one of my reels hit 30K views on Instagram. By night, I'm grinding LeetCode  and dreaming up my next hackathon project.
-What I work with:
-
-🍎 Swift / Xcode — currently building iOS apps
-
-🐍 Python & Flask — backend scripting and web apps
-
-☕ Java — DSA and problem solving
-
-🌐 HTML, CSS — frontend basics
-
-🗄️ MySQL — database management
-
-🎥 Premiere Pro, After Effects, DaVinci Resolve — video production
-
-What drives me:
-I love the intersection of technology and creativity — whether that's shipping a clean app, optimizing an algorithm, or editing a video that connects with an audience. Hackathons are my playground, and open-source collaboration is where I want to grow.
-Currently:
-
-📱 Building an iOS app
-📊 Strengthening DSA foundations
-🎯 Looking for hackathons, collabs, and opportunities to make cool things
-
-
-"Code it. Create it. Ship it."
+iOS developer and video editor, currently in my 3rd year of B.Tech CSE at Galgotias University (2023–2027). Building DevDen — a developer community app for iOS. Also grinding DSA and editing reels. Interested in clean code, hackathons, and open-source.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-rathour-6621892a3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2003priyanshurathour@gmail.com) 
